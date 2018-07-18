@@ -1,0 +1,17 @@
+{
+    "name": "l3ss13ux/framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lessieux Hélène",
+            "email": "hlnl2803@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src",
+            "Vittel\\": "app"
+        }
+    }
+}
