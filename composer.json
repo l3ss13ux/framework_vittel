@@ -7,7 +7,9 @@
             "email": "hlnl2803@hotmail.fr"
         }
     ],
-    "require": {},
+    "require": {
+        "symfony/yaml": "^3.4"
+    },
     "autoload": {
         "psr-4": {
             "App\\": "src",
