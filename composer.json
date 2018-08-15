@@ -8,7 +8,9 @@
         }
     ],
     "require": {
-        "symfony/yaml": "^3.4"
+        "symfony/yaml": "^3.4",
+        "doctrine/annotations": "^1.2",
+        "symfony/finder": "^3.4"
     },
     "autoload": {
         "psr-4": {
